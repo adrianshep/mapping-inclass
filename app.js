@@ -16,10 +16,7 @@ var generalAssembly = L.marker( [38.9048542, -77.0339403] ).addTo( map );
 
 // Create a pop-up.
 generalAssembly.bindPopup(
-  "<h3>General Assembly DC</h3>
-  <p>1133 15th St., NW</p>
-  <p>8th Floor</p>
-  <p>Washington, DC 20005</p>"
+  "<h3>General Assembly DC</h3><p>1133 15th St., NW</p><p>8th Floor</p><p>Washington, DC 20005</p>"
 )
 
 // Circle
